@@ -5,4 +5,4 @@ bundle install
 bundle exec rackup
 ```
 
-Open `http://localhost:9393` in your browser
+Open `http://localhost:9292` in your browser
